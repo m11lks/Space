@@ -1,2 +1,2 @@
-#Space
+#space
 Знакомство с GitHub
